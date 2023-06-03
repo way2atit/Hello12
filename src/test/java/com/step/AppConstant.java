@@ -10,7 +10,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class AppConstant {
 	
 	public static WebDriver driver = null;
-	public static String name = "@AdminTest";
+	
 	
 	public WebDriver open_browser()
 	{
